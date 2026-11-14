@@ -1,6 +1,6 @@
-# Automation in Vertical Farms: Quality Control
+# Automation Systems for Vertical Indoor Farming: Monitoring System
 
-CDE4301 FYP interim report website, built on the [EDIC iDP report template](https://github.com/edic-nus/template).
+IS-401 (CDE4301) FYP interim report website, built on the [EDIC iDP report template](https://github.com/edic-nus/template).
 
 - `index.html` – the report
 - `assets/` – figures and team avatars
